@@ -1,6 +1,6 @@
 Package: R2jags
-Version: 0.6-1
-Date: 2020-4-27
+Version: 0.7-1
+Date: 2021-08-05
 Title: Using R to Run 'JAGS'
 Author: Yu-Sung Su <suyusung@tsinghua.edu.cn>,
         Masanao Yajima <yajima@bu.edu>,
